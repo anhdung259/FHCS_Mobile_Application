@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421263472733",
+    "project_id": "fucs-1ee4c",
+    "storage_bucket": "fucs-1ee4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421263472733:android:615da6d4840e3bc096b5b4",
+        "android_client_info": {
+          "package_name": "com.fu.fhcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421263472733-t8jf7p8uoc7n9ekt6kpruqmln83aq8b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fu.fhcs",
+            "certificate_hash": "2078757ef1cb1fe652a4815f65631fbab6f7b437"
+          }
+        },
+        {
+          "client_id": "421263472733-58anl4g9u6c88gpk7815v9fa4bisuahf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACSSVZFwphk-6BW0xMZqT6YRLvDv2QJRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421263472733-58anl4g9u6c88gpk7815v9fa4bisuahf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
